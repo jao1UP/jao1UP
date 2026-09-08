@@ -12,8 +12,8 @@ Sou apaixonado por tecnologia. Desenvolvendo assistentes de IA em Python, progra
 Quando não estou codando, provavelmente estou modificando o firmware de algum dispositivo Android, explorando e aprimorando meu conhecimento em tecnologia em geral.
 
 ### 🛠️ Stack & Lab
-**Linguagens:**
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Tecnologias:**
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
 **Sistemas & Segurança:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
