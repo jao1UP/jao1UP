@@ -21,8 +21,8 @@ Quando não estou codando, provavelmente estou modificando o firmware de algum d
 
 ---
 <div align="center">
-  <i>"Da solda no hardware até a automação na nuvem."</i><br><br>
-  <a href="mailto:seu-email@email.com">
+
+  <a href="mailto:joaon.vargas176@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
