@@ -27,5 +27,5 @@ Profissional de tecnologia focado em automação, infraestrutura de redes e solu
 </p>
 
 ### 📫 Como me encontrar
-- 💼 **Infraestrutura e Tech:** Vargas Cloud
-- 📧 **Email:** [Seu Email Aqui](mailto:seu-email@email.com)
+- 💼 **Instagram**: @Vargas.cloud ou @Joaoskr_
+- 📧 **Email:** joaon.vargas176@gmail.com
