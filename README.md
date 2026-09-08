@@ -1,9 +1,7 @@
 # 💻 João Gabriel (Vargas Cloud)
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Cybersecurity+%26+Network+Enthusiast;Python+%26+IoT+Developer;Hardware+%26+Firmware+Modder" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=0C84F7&width=435&lines=Technology+Enthusiast;Artificial+Intelligence" alt="Typing SVG" /></a>
 </div>
 
 ---
