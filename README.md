@@ -1,31 +1,37 @@
-# Olá, eu sou João Gabriel 👋
+# 💻 João Gabriel (Vargas Cloud)
 
-Profissional de tecnologia focado em automação, infraestrutura de redes e soluções inteligentes através da Vargas Cloud. Tenho forte interesse em explorar desde a camada de hardware até integrações com inteligência artificial e segurança.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Cybersecurity+%26+Network+Enthusiast;Python+%26+IoT+Developer;Hardware+%26+Firmware+Modder" alt="Typing SVG" />
+  </a>
+</div>
 
-### 🚀 O que estou construindo e explorando
-- 🤖 Desenvolvendo assistentes de voz locais com **Python** e integração com modelos de IA (GenAI SDK).
-- 🔌 Criando projetos de IoT com microcontroladores **ESP32**, automação de relés e bots de Telegram.
-- 🛡️ Aprofundando estudos em **Cibersegurança**, testes de intrusão (Kali Linux, Metasploit, Nmap) e diagnóstico de redes.
-- 📱 Realizando modificações avançadas de firmware e sistemas operacionais customizados.
-- 🌍 Atualmente focando no aprimoramento contínuo do meu **Inglês**.
+---
 
-### 🛠️ Tecnologias e Ferramentas
+### ⚡ Sobre Mim
+Sou apaixonado por desconstruir e reconstruir tecnologia. Seja configurando infraestrutura de redes pela **Vargas Cloud**, desenvolvendo assistentes de IA em Python, programando microcontroladores ESP32 para automação, ou explorando segurança da informação.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
+Quando não estou codando, provavelmente estou modificando o firmware de algum dispositivo Android, explorando coding automotivo via VCDS, ou imerso nos meus estudos de inglês.
 
-### 📊 Estatísticas do GitHub
+### 🛠️ Stack & Lab
+**Linguagens & Automação:**
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas de João Gabriel" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
+**Sistemas & Segurança:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Android](https://img.shields.io/badge/Android_OS-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### 📫 Como me encontrar
-- 💼 **Instagram**: @Vargas.cloud ou @Joaoskr_
-- 📧 **Email:** joaon.vargas176@gmail.com
+**Hardware & IoT:**
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) ![Raspberry_Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+### ⚙️ Projetos em Foco
+- 🗣️ **IA Local:** Integração do Google GenAI SDK com Python para comandos de voz.
+- 📡 **IoT:** Controle de relés remotamente utilizando ESP32 e integração com bots do Telegram.
+- 🔒 **Network Sec:** Diagnóstico de redes e exploração de vulnerabilidades (Metasploit, Nmap).
+
+---
+<div align="center">
+  <i>"Da solda no hardware até a automação na nuvem."</i><br><br>
+  <a href="mailto:seu-email@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
